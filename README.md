@@ -13,12 +13,12 @@ Repositorio del sistema de clinica : https://github.com/fernandocorinaldesi/nuev
 
 ### Screenshot
 ![screenshoot](https://i.ibb.co/PFvdWwv/clinica.jpg)
+
 ![screenshoot](https://i.ibb.co/hmDjHk6/clinica2.jpg)
+
 ![screenshoot](https://i.ibb.co/nQfkCtN/clinica3.jpg)
 
 
-https://i.ibb.co/hmDjHk6/clinica2.jpg
-https://i.ibb.co/nQfkCtN/clinica3.jpg
 
 
 
