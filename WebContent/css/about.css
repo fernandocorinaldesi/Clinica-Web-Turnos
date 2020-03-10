@@ -1,0 +1,49 @@
+/*********************************
+6. About
+*********************************/
+
+.about
+{
+	width: 100%;
+	background: #FFFFFF;
+	padding-top: 96px;
+	padding-bottom: 94px;
+	margin-top:50px;
+}
+.about_text
+{
+	margin-top: 26px;
+	padding-right: 95px;
+}
+
+
+.about_button
+{
+	margin-top: 129px;
+}
+.button
+{
+	display: inline-block;
+	height: 51px;
+	width: 115px;
+	background: #00A6CC;
+}
+
+.button a
+{
+	display: block;
+	position: relative;
+	line-height: 51px;
+	font-size: 14px;
+	font-weight: 900;
+	color: #FFFFFF;
+	padding-left: 39px;
+	padding-right: 45px;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	z-index: 10;
+}
+
+.about_button:hover{
+	background: #55E1FF;
+}
